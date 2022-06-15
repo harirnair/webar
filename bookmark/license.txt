@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bookmark
+* source:	https://sketchfab.com/3d-models/bookmark-9285485108fa484190813972d3a386c6
+* author:	masterplaneye (https://sketchfab.com/masterplaneye)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bookmark" (https://sketchfab.com/3d-models/bookmark-9285485108fa484190813972d3a386c6) by masterplaneye (https://sketchfab.com/masterplaneye) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
